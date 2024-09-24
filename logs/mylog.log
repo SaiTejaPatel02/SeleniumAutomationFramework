@@ -1,0 +1,132 @@
+[INFO ] 2024-07-04 16:55:56.303 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 16:55:56.316 [main] SeleniumAutomationFramework - VerifyLogin test execution started
+[INFO ] 2024-07-04 16:55:57.496 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 16:55:57.564 [main] SeleniumAutomationFramework - Entered EmailId
+[INFO ] 2024-07-04 16:55:57.590 [main] SeleniumAutomationFramework - Entered Password
+[INFO ] 2024-07-04 16:55:58.704 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 16:55:58.732 [main] SeleniumAutomationFramework - VerifyLogin - Failed
+[INFO ] 2024-07-04 17:03:15.903 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 17:04:58.977 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 17:09:18.234 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 17:17:07.442 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 17:17:48.182 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 17:20:18.334 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 17:23:36.545 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 17:27:37.538 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 17:29:42.475 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 17:30:48.187 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 17:31:00.633 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 17:32:05.463 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 17:34:47.031 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 17:34:47.039 [main] SeleniumAutomationFramework - VerifyLogin test execution started
+[INFO ] 2024-07-04 17:34:53.617 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 17:34:53.692 [main] SeleniumAutomationFramework - Entered EmailId
+[INFO ] 2024-07-04 17:34:53.717 [main] SeleniumAutomationFramework - Entered Password
+[INFO ] 2024-07-04 17:34:54.237 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 17:51:42.638 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 17:54:51.955 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 17:56:14.891 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 17:56:15.232 [main] SeleniumAutomationFramework - VerifyLogin test execution started
+[INFO ] 2024-07-04 17:56:18.197 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 17:56:18.263 [main] SeleniumAutomationFramework - Entered EmailId
+[INFO ] 2024-07-04 17:56:18.289 [main] SeleniumAutomationFramework - Entered Password
+[INFO ] 2024-07-04 17:56:20.757 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 17:56:30.789 [main] SeleniumAutomationFramework - VerifyLogin test execution started
+[INFO ] 2024-07-04 17:56:34.226 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 17:56:34.254 [main] SeleniumAutomationFramework - Entered EmailId
+[INFO ] 2024-07-04 17:56:34.278 [main] SeleniumAutomationFramework - Entered Password
+[INFO ] 2024-07-04 17:56:35.299 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 18:02:24.320 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 18:02:24.673 [main] SeleniumAutomationFramework - VerifyLogin test execution started
+[INFO ] 2024-07-04 18:02:25.715 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 18:02:25.775 [main] SeleniumAutomationFramework - Entered EmailId
+[INFO ] 2024-07-04 18:02:25.806 [main] SeleniumAutomationFramework - Entered Password
+[INFO ] 2024-07-04 18:02:26.481 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 18:02:36.546 [main] SeleniumAutomationFramework - VerifyLogin test execution started
+[INFO ] 2024-07-04 18:02:38.811 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 18:02:38.839 [main] SeleniumAutomationFramework - Entered EmailId
+[INFO ] 2024-07-04 18:02:38.864 [main] SeleniumAutomationFramework - Entered Password
+[INFO ] 2024-07-04 18:02:39.324 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 18:06:01.991 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 18:06:02.340 [main] SeleniumAutomationFramework - VerifyLogin test execution started
+[INFO ] 2024-07-04 18:06:03.582 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 18:06:03.653 [main] SeleniumAutomationFramework - Entered EmailId
+[INFO ] 2024-07-04 18:06:03.679 [main] SeleniumAutomationFramework - Entered Password
+[INFO ] 2024-07-04 18:06:04.960 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 18:06:15.028 [main] SeleniumAutomationFramework - VerifyLogin test execution started
+[INFO ] 2024-07-04 18:06:16.228 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 18:06:16.257 [main] SeleniumAutomationFramework - Entered EmailId
+[INFO ] 2024-07-04 18:06:16.291 [main] SeleniumAutomationFramework - Entered Password
+[INFO ] 2024-07-04 18:06:17.454 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 18:06:27.516 [main] SeleniumAutomationFramework - VerifyLogin test execution started
+[INFO ] 2024-07-04 18:06:29.068 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 18:06:29.095 [main] SeleniumAutomationFramework - Entered EmailId
+[INFO ] 2024-07-04 18:06:29.118 [main] SeleniumAutomationFramework - Entered Password
+[INFO ] 2024-07-04 18:06:30.353 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 18:21:24.193 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 18:21:24.516 [main] SeleniumAutomationFramework - VerifyLogin test execution started
+[INFO ] 2024-07-04 18:21:30.119 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 18:21:30.189 [main] SeleniumAutomationFramework - Entered EmailId
+[INFO ] 2024-07-04 18:21:30.216 [main] SeleniumAutomationFramework - Entered Password
+[INFO ] 2024-07-04 18:21:31.127 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 18:21:31.141 [main] SeleniumAutomationFramework - VerifyLogin - Failed
+[INFO ] 2024-07-04 18:21:31.330 [main] SeleniumAutomationFramework - VerifyLogin test execution started
+[INFO ] 2024-07-04 18:21:41.351 [main] SeleniumAutomationFramework - VerifyLogin test execution started
+[INFO ] 2024-07-04 18:26:01.095 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 18:26:01.447 [main] SeleniumAutomationFramework - VerifyLogin test execution started
+[INFO ] 2024-07-04 18:26:03.212 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 18:26:03.295 [main] SeleniumAutomationFramework - Entered EmailId
+[INFO ] 2024-07-04 18:26:03.322 [main] SeleniumAutomationFramework - Entered Password
+[INFO ] 2024-07-04 18:26:04.789 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 18:26:04.809 [main] SeleniumAutomationFramework - VerifyLogin - Failed
+[INFO ] 2024-07-04 18:26:04.987 [main] SeleniumAutomationFramework - VerifyLogin test execution started
+[INFO ] 2024-07-04 18:26:14.997 [main] SeleniumAutomationFramework - VerifyLogin test execution started
+[INFO ] 2024-07-04 18:32:50.170 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 18:32:50.519 [main] SeleniumAutomationFramework - VerifyLogin test execution started
+[INFO ] 2024-07-04 18:32:51.362 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 18:32:51.433 [main] SeleniumAutomationFramework - Entered EmailId
+[INFO ] 2024-07-04 18:32:51.459 [main] SeleniumAutomationFramework - Entered Password
+[INFO ] 2024-07-04 18:32:52.337 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 18:32:52.354 [main] SeleniumAutomationFramework - VerifyLogin - Failed
+[INFO ] 2024-07-04 18:32:52.545 [main] SeleniumAutomationFramework - VerifyLogin test execution started
+[INFO ] 2024-07-04 18:33:02.612 [main] SeleniumAutomationFramework - VerifyLogin test execution started
+[INFO ] 2024-07-04 18:41:00.570 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 18:43:34.518 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 18:46:05.550 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 18:46:05.895 [main] SeleniumAutomationFramework - VerifyLogin test execution started
+[INFO ] 2024-07-04 18:46:06.853 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 18:46:06.926 [main] SeleniumAutomationFramework - Entered EmailId
+[INFO ] 2024-07-04 18:46:06.953 [main] SeleniumAutomationFramework - Entered Password
+[INFO ] 2024-07-04 18:46:07.755 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 18:46:07.781 [main] SeleniumAutomationFramework - VerifyLogin - Failed
+[INFO ] 2024-07-04 18:46:07.942 [main] SeleniumAutomationFramework - VerifyLogin test execution started
+[INFO ] 2024-07-04 18:46:17.996 [main] SeleniumAutomationFramework - VerifyLogin test execution started
+[INFO ] 2024-07-04 18:48:42.124 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 18:54:59.645 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 18:56:08.576 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 19:01:15.730 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 19:03:28.465 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 19:03:28.807 [main] SeleniumAutomationFramework - VerifyLogin test execution started
+[INFO ] 2024-07-04 19:03:30.170 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 19:03:30.244 [main] SeleniumAutomationFramework - Entered EmailId
+[INFO ] 2024-07-04 19:03:30.271 [main] SeleniumAutomationFramework - Entered Password
+[INFO ] 2024-07-04 19:03:31.346 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 19:03:31.364 [main] SeleniumAutomationFramework - VerifyLogin - Failed
+[INFO ] 2024-07-04 19:03:31.522 [main] SeleniumAutomationFramework - VerifyLogin test execution started
+[INFO ] 2024-07-04 19:03:41.575 [main] SeleniumAutomationFramework - VerifyLogin test execution started
+[INFO ] 2024-07-04 19:08:55.680 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 19:13:38.468 [main] SeleniumAutomationFramework - url opened
+[INFO ] 2024-07-04 19:13:38.799 [main] SeleniumAutomationFramework - VerifyLogin test execution started
+[INFO ] 2024-07-04 19:13:39.645 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 19:13:39.717 [main] SeleniumAutomationFramework - Entered EmailId
+[INFO ] 2024-07-04 19:13:39.746 [main] SeleniumAutomationFramework - Entered Password
+[INFO ] 2024-07-04 19:13:40.597 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 19:13:41.393 [main] SeleniumAutomationFramework - Cliked on SignOut
+[INFO ] 2024-07-04 19:13:41.400 [main] SeleniumAutomationFramework - VerifyLogin test execution started
+[INFO ] 2024-07-04 19:13:41.975 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 19:13:42.016 [main] SeleniumAutomationFramework - Entered EmailId
+[INFO ] 2024-07-04 19:13:42.062 [main] SeleniumAutomationFramework - Entered Password
+[INFO ] 2024-07-04 19:13:42.654 [main] SeleniumAutomationFramework - Clicked on Signin
+[INFO ] 2024-07-04 19:13:43.488 [main] SeleniumAutomationFramework - Cliked on SignOut
+[INFO ] 2024-07-04 19:13:43.490 [main] SeleniumAutomationFramework - VerifyLogin test execution started
+[INFO ] 2024-07-04 19:13:44.049 [main] SeleniumAutomationFramework - Clicked on Signin
